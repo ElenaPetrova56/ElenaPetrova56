@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://github.com/ElenaPetrova56/DIPLOM/blob/main/README.docx
+<img src="https://github.com/ElenaPetrova56/DIPLOM/blob/main/README.docx alt="Описание изображения">
